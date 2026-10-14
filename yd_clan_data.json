@@ -1,0 +1,47 @@
+{
+  "members": [
+    {
+      "name": "VICTOR",
+      "role": "Leader",
+      "level": "150",
+      "status": "آنلاین"
+    },
+    {
+      "name": "PARSA",
+      "role": "Co-Leader",
+      "level": "150",
+      "status": "آنلاین"
+    },
+    {
+      "name": "seyed",
+      "role": "Co-Leader",
+      "level": "147",
+      "status": "آنلاین"
+    },
+    {
+      "name": "rezabruski",
+      "role": "Veteran",
+      "level": "143",
+      "status": "آفلاین"
+    },
+    {
+      "name": "mmd",
+      "role": "Veteran",
+      "level": "141",
+      "status": "آنلاین"
+    },
+    {
+      "name": "mobin",
+      "role": "Veteran",
+      "level": "139",
+      "status": "آفلاین"
+    },
+    {
+      "name": "abol",
+      "role": "Member",
+      "level": "138",
+      "status": "آنلاین"
+    }
+  ],
+  "requests": []
+}
